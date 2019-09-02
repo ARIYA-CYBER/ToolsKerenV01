@@ -1,3 +1,3 @@
 # ToolsKerenV01
 # Tools Sebatas Recode
-# Thanks to Mr.GameOver and ARIYA CYBER
+# Thanks to Mr.GameOver
